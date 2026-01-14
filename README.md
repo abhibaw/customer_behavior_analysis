@@ -87,7 +87,7 @@ Enabled data-driven decision-making using dashboards and reports.
 ****▶️ How to Run the Project****
 
 **Clone the repository:**
-git clone https://github.com/your-username/project-name.git
+[git clone https://github.com/your-username/project-name.git](https://github.com/abhibaw/customer_behavior_analysis)
 
 **Install required Python libraries:**  pip install pandas numpy matplotlib seaborn
 
